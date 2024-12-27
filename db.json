@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Paracetamol",
+      "category": "Pain Reliever",
+      "quantity": 100,
+      "price": 5.0,
+      "date_added": "2024-12-27"
+    },
+    {
+      "id": 2,
+      "product_name": "Ibuprofen",
+      "category": "Pain Reliever",
+      "quantity": 200,
+      "price": 7.5,
+      "date_added": "2024-12-26"
+    }
+  ]
+}
